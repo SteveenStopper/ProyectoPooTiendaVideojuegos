@@ -8,10 +8,10 @@ import java.util.ArrayList;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-import tiendaVideojuegos.mundo.CompraVenta;
-import tiendaVideojuegos.mundo.CompraVenta.Tipo;
-import tiendaVideojuegos.mundo.Juegos;
-import tiendaVideojuegos.mundo.Juegos.Genero;
+import mundo.TiendaVideojuegos.CompraVenta;
+import mundo.TiendaVideojuegos.Juegos;
+import mundo.TiendaVideojuegos.CompraVenta.Tipo;
+import mundo.TiendaVideojuegos.Juegos.Genero;
 
 class CompraVentaTest {
 	private Juegos juego;

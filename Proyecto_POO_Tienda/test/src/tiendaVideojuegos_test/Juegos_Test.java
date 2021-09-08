@@ -6,8 +6,8 @@ import static org.junit.Assert.assertTrue;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-import tiendaVideojuegos.mundo.Juegos;
-import tiendaVideojuegos.mundo.Juegos.Genero;
+import mundo.TiendaVideojuegos.Juegos;
+import mundo.TiendaVideojuegos.Juegos.Genero;
 
 class Juegos_Test {
 

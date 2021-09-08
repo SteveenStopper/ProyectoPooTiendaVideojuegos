@@ -6,9 +6,9 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-import tiendaVideojuegos.mundo.Juegos;
-import tiendaVideojuegos.mundo.Juegos.Genero;
-import tiendaVideojuegos.mundo.TiendaVideojuegos;
+import mundo.TiendaVideojuegos.Juegos;
+import mundo.TiendaVideojuegos.TiendaVideojuegos;
+import mundo.TiendaVideojuegos.Juegos.Genero;
 
 class TiendaVideojuegos_Test {
 
